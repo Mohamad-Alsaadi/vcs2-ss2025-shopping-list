@@ -1,6 +1,9 @@
+tomaten
 chips
 wurst
  -normal 
 aepfel
 birnen
+orangen 
+paprika
 
