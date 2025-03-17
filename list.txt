@@ -1,3 +1,5 @@
+chips
+wurst
 aepfel
 birnen
 
