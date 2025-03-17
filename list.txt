@@ -1,5 +1,6 @@
 chips
 wurst
+ -normal 
 aepfel
 birnen
 
